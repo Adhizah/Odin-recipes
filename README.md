@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Odin Recipies is a personal project where I will collect  and share my favorite recipies as part of Odin project curriculum. This projects aims to enhance my skills in HTML,CSS and git as a solid foundation of web development.
+**Odin Recipies is a personal project where I will collect  and share my favorite recipes as part of Odin project curriculum. This projects aims to enhance my skills in HTML,CSS and git as a solid foundation of web development.
 
 In this project, I want to focus on:
 
