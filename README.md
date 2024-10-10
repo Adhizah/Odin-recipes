@@ -1,4 +1,4 @@
-# Odin Recipies
+# Odin Recipes
 
 ## Introduction
 
